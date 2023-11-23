@@ -1,7 +1,7 @@
-![logo](https://github.com/meet-irfan/meet-irfan/blob/main/Linked.png)
+![logo](https://github.com/KHURSHEED-AHMED/KHURSHEED-AHMED/blob/main/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi,i am Khursheed ahmed</h1>
-<img src="<img src="image-source-url" >
+
 
 <h3 align="center">A passionate Python developer from Pakistan</h3>
 
