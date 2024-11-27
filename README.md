@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SONAR ROCK VS MINE PREDICTION**
+- 🔭 I’m currently working on **Automated Code Grading using LLMS**
 
-- 🌱 I’m currently learning **Machine Learning,Data science**
+- 🌱 I’m currently learning **Gen AI**
 
-- 💬 Ask me about **Python ,Machine Learning ,Data Visualization**
+- 💬 Ask me about **Python ,Machine Learning ,Data Visualization,Deep Learning**
 
-- 📫 How to reach me **khursheedahmed.bscsf21kdk@iba-suk.edu.pk**
+- 📫 How to reach me **bhuttokhursheed40533@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
